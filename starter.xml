@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bootstrap.xsl"?>
+<page title="Starter Template | Bootstrap">
+    <navbar brand="Navbar">
+        <item href="#" title="Home" active="true"/>
+        <item href="#" title="Link"/>
+        <item href="#" title="Disabled" disabled="true"/>
+        <item title="Dropdown" id="dropdown01">
+            <item href="#" title="Action"/>
+            <item href="#" title="Another action"/>
+            <item href="#" title="Something else here"/>
+        </item>
+    </navbar>
+</page>
